@@ -1,2 +1,2 @@
 hostname
-get-date
+get-service -ComputerName localhost
